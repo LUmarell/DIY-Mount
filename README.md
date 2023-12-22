@@ -30,3 +30,4 @@ Odnos blizu daleko (monitor).
 
 Različite tipove sjedenja (sjedenje, opušteno sjedenje i stajanje)
 **
+# Mission statment
