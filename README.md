@@ -12,7 +12,7 @@ Moji projekt je izrada neke vrste postolja za računalo koje dopušta kroz neku 
 
 To bi se postiglo mijenjanjem udaljenosti oka od monitora čime bi se izazvalo opuštanje tijela.
 
-# Zašto mehanicki?
+# Zašto mehanički?
 
 Mislim da je ovo dobro rješenje jer kroz fizičku promjenu mi sebe psihološki pripremamo za rad ili zabavu.
 
@@ -29,5 +29,10 @@ Ujedno može biti uredski namještaj.
 Odnos blizu daleko (monitor).
 
 Različite tipove sjedenja (sjedenje, opušteno sjedenje i stajanje)
-**
+
 # Mission statment
+1. bauhaus core (sve mora biti lako nabavljivo i lako oblikovljivo)
+2. jednostavni materijali
+3. 
+
+**
